@@ -1,1 +1,27 @@
+#impi
+{
+   width: 50%;
+   height: 50%;
+    margin: 30px;
+}
 
+.progress1
+{
+    height: 7px;
+    border-radius: 0;
+    background: #DDD;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+    .progress-bar {
+        float: left;
+        width: 0%;
+        height: 100%;
+        font-size: 12px;
+        line-height: 20px;
+        color: #fff;
+        text-align: center;
+        background-color: #337ab7;
+    }
